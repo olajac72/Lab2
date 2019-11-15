@@ -46,6 +46,7 @@ int main()
 			main_VectorDatabase();
 			break;
 		default:
+			cout << "Not a valid choice!";
 			break;
 		}
 	}
